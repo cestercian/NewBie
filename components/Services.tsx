@@ -12,11 +12,6 @@ const testimonials = [
         role: "Comedy Club Owner",
         content: "Working with EventMasters has been a game-changer for our comedy nights. They handle everything flawlessly, allowing us to focus on the talent."
     },
-    {
-        name: "Emily Davis",
-        role: "Corporate Client",
-        content: "Our company's annual event was managed perfectly by EventMasters. From planning to execution, they exceeded our expectations."
-    }
 ]
 
 export default function Testimonials() {
